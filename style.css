@@ -1,0 +1,23 @@
+body {
+    font-family: 'Lato', serif;
+    background-color: #212529;
+}
+
+#mainNavbar .navbar-brand{
+    color: #b7410e;
+    font-size: 1.5rem;
+    
+}
+
+.navbar-nav .dropdown-menu {
+    background-color: #212529;
+}
+
+.dropdown-item {
+    color: white;
+}
+
+.dropdown-item:hover {
+    background-color: #212529;
+    color: gray;
+}
